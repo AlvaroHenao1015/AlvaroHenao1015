@@ -1,8 +1,3 @@
-<p align="center">
-    <img width="200" src="https://avatars.githubusercontent.com/u/108825950?s=400&u=27f2f5f1e481b5551b5888a21b2ebfbfd980bacd&v=4">
-</p>
-
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
